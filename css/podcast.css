@@ -1,0 +1,10 @@
+table{
+    border-collapse: collapse;
+    border: 2px orange solid;
+    width: 30%;
+}
+
+.placement{
+    display: flex;
+    justify-content: flex-start;
+}

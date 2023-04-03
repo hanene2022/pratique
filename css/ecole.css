@@ -1,0 +1,30 @@
+
+.navbar{
+    background-color: rgba(255, 166, 0, 0.537);
+    width: 100%;
+    text-align: right;
+    margin-bottom: 1%;
+}
+.navbar a{
+text-decoration: none;
+}
+#image{
+    float: left;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 0%;
+}
+img{
+    padding-bottom: 40%;
+    width: 25%;
+    height: 60%;
+}
+#titre h1{
+    color: blue;
+    position: absolute;
+    left: 40%;
+    display: flex;
+}
+
+

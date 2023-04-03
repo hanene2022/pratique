@@ -1,0 +1,87 @@
+
+.gbreve,.logog,.container {
+    border:3px rgb(184, 95, 63) solid;
+    border-radius:10px ;
+    width:20% ;
+    margin-left: 20px;
+    margin-top: 20px;
+    padding:10px;
+    
+}
+.container a{
+
+text-decoration: none;
+
+}
+.container div{
+background-color: rgb(199, 128, 12);
+font-weight:bold ;
+/* border:1px  black solid; */
+border-radius:5px ;
+margin-bottom:10px ;
+color:black;
+text-transform: capitalize;
+
+
+}
+#fede, #even,#resed,#anne {
+
+text-transform: uppercase;
+
+}
+body{
+background-image:url(../images/premium_photo-1667761634654-7fcf176434b8.jpg);
+background-size: cover;
+}
+
+.logog div{
+  
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+ .titre h2{
+    background-color: rgb(16, 211, 39);
+    height:20% ;
+    width: 100%;
+    margin:0 ;
+    padding: auto;
+    text-align: center;
+
+}
+.breve h2{
+    text-transform: uppercase;
+    font-weight:bold;
+    color:blue;
+    font-size:20px ;
+
+
+}
+.breve h2 a:hover{
+    color:red;
+}
+em{
+    font-size:14px ;
+    font-style: italic;
+    color: black;
+}
+div img{
+    height:120px ;
+    width: 160px;
+}
+#accue{
+    display:grid;
+    grid-template-columns: 100px 1fr;
+
+}
+#accue img{
+    width: 60px;
+    height: 40px;
+    
+}
+#aclogo{
+        display: flex;
+        align-items: center;
+        justify-content: center;     
+}

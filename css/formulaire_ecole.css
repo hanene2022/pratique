@@ -1,0 +1,21 @@
+legend{border: 2px grey solid ;
+    background-color: chocolate;
+    border-radius: 4px;
+}
+
+form{
+    font-weight: bold;
+}
+
+fieldset{
+    border-radius: 5px;
+}
+
+a{font-weight: bold;}
+
+.titre{
+    border: 2px rgb(255, 156, 25) solid;
+    border-radius: 4px;
+    text-align: center;
+    background-color: chocolate;
+}

@@ -1,0 +1,189 @@
+
+.dernierArticle{
+position: absolute;
+top: 10%;
+width: 65%;
+right: 2%;
+border:3px rgb(184, 95, 63) solid;
+border-radius:10px ;
+
+
+margin-top: 20px;
+padding:10px;
+/* background-size: cover;
+text-align: center; */
+}
+    
+
+
+.containerArticle p{
+   
+    font-size: xx-small;
+    justify-content: center;
+   
+}
+.containerArticle article{
+    color: rgb(216, 112, 126);
+}
+.ptitre a:hover{
+color: red;
+}
+
+
+.dateA{
+    color: rgb(209, 184, 40);
+    font-family: 'Fasthand', cursive;
+}
+#art2, #art4,#art6,#art8,#art10{
+    background-color: beige;
+    
+   
+
+}
+.containerArticle p{
+    font-size: 90%;
+}
+.lirelasuite{
+    display: flex;
+    justify-content: end;
+    font-size: x-small;
+}
+
+#art10{
+    margin-bottom: 2%;
+}
+
+
+  /*hanene*/
+
+  
+.gbreve,.logog,.container {
+    border:3px rgb(184, 95, 63) solid;
+    border-radius:10px ;
+    width:20% ;
+    margin-left: 20px;
+    margin-top: 20px;
+    padding:10px;
+
+    
+}
+/* .container{ 
+    display: flex;
+}
+
+.container div{
+    justify-content: space-around
+    align-items: center;
+
+} */
+.container a{
+
+text-decoration: none;
+
+}
+.container div{
+background:linear-gradient(rgb(78, 78, 78), rgba(0, 255, 255, 0.219));
+font-weight:bold ;
+
+border-radius:5px ;
+/* margin-bottom:10px ; */
+color:black;
+text-transform: capitalize;
+
+
+}
+
+/* main{
+    position: absolute;
+    width: 30%;
+} */
+#fede, #even,#resed,#anne {
+
+text-transform: uppercase;
+
+}
+body{
+background-image:url(../images/fond.jpg);
+background-size: cover;
+}
+
+.logog div{
+  
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+ .titre h2{
+    background:linear-gradient(rgb(78, 78, 78), rgba(0, 255, 255, 0.219));
+    height:20% ;
+    width: 100%;
+    margin:0 ;
+    padding: auto;
+    text-align: center;
+    color:rgba(30, 105, 155, 0.801) ;
+
+}
+.breve h2{
+    text-transform: uppercase;
+    font-weight:bold;
+    color:rgb(235, 25, 35);
+    font-size:20px ;
+
+
+}
+.breve h2 a:hover{
+    color:red;
+}
+em{
+    font-size:14px ;
+    font-style: italic;
+    color: rgb(31, 158, 243);
+}
+div img{
+    height:120px ;
+    width: 160px;
+}
+#accue{
+    display:grid;
+    grid-template-columns: 100px 1fr;
+
+}
+#accue img{
+    width: 60px;
+    height: 40px;
+    
+}
+#aclogo{
+        display: flex;
+        align-items: center;
+        justify-content: center;     
+}
+
+.navbar{
+    background-color: rgba(255, 166, 0, 0.537);
+    width: 100%;
+    text-align: right;
+    margin-bottom: 1%;
+}
+.navbar a{
+text-decoration: none;
+}
+#image{
+    float: left;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 0%;
+}
+img{
+    padding-bottom: 40%;
+    width: 25%;
+    height: 60%;
+}
+#titre h1{
+    color: blue;
+    position: absolute;
+    left: 40%;
+    display: flex;
+}
